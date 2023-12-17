@@ -95,3 +95,10 @@ h2 {
   margin-top: 20px;
   width: 100%;
 }
+
+#button{
+    background-color: orangered;
+    border: none;
+    color: black;
+    font-weight: bold;
+}

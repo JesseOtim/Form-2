@@ -10,7 +10,7 @@
 }
 
 body {
-  background: linear-gradient(to bottom, rgba(0,0,0,.5), rgba(0,0,0,.5)), url("./img1.jpg");
+  background: linear-gradient(to bottom, rgba(0,0,0,.5), rgba(0,0,0,.5)), url("../public/sebastian-unrau-sp-p7uuT0tw-unsplash.jpg");
   background-position: center;
   font-family: 'Open Sans', sans-serif;
   display: flex;
@@ -35,6 +35,7 @@ h2 {
 
 .form {
   padding: 30px 40px;
+  border-radius: 50%;
 }
 
 .form-control {
@@ -94,6 +95,11 @@ h2 {
   padding: 10px;
   margin-top: 20px;
   width: 100%;
+}
+
+label{
+    font-weight: bold;
+    
 }
 
 #button{
